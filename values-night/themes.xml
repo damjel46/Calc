@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.민희아들계산기" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.민희아들계산기" parent="Base.Theme.민희아들계산기" />
+</resources>
